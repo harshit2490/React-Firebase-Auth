@@ -4,10 +4,10 @@
 ### Working Demonstration
 <img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-1.png" width="250" height="250">
 <img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-2.png" width="250" height="250">
-<img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-3.png" width="250" height="200">
-<img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-4.png" width="250" height="200">
-<img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-5.png" width="250" height="200">
-<img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-6.png" width="250" height="200">
+<img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-3.png" width="250" height="160">
+<img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-4.png" width="300" height="160">
+<img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-5.png" width="250" height="160">
+<img src="https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-6.png" width="250" height="160">
 
 
 ### Getting Started with Create React App
