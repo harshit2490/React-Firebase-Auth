@@ -2,9 +2,9 @@
 ## https://react-email-auth.herokuapp.com/
 
 ### Working Demonstration
-[![Working Demonstration](https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-1.png)](https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-1.png = 250x250)
+[![Working Demonstration](https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-1.png = 250x250)](https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-1.png)
 
-[![Working Demonstration](https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-2.png)](https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-2.png = 250x250)
+[![Working Demonstration](https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-2.png = 250x250)](https://github.com/harshit2490/React-Firebase-Auth/blob/master/screenshot-2.png)
 
 
 ### Getting Started with Create React App
