@@ -13,6 +13,9 @@ const Auth = () => {
       <p onClick={toggleIndex}>
         {!index ? "New user? Click here " : "Already have an acount?"}
       </p>
+      <div>
+        <h6>Created by Harshit</h6>
+      </div>
     </div>
   );
 };
