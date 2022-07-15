@@ -17,6 +17,7 @@ const Signup = () => {
 
   return (
     <div className="form">
+      <h1>Email Validation</h1>
       <h2> New User</h2>
       <form onSubmit={onSubmit}>
         <input placeholder="Email" type="email" ref={emailRef} />
